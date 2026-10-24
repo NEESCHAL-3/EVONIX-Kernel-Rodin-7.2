@@ -1,6 +1,6 @@
-# EVONIX Kernel · Linux 7.2
+# EVONIX Kernel · Linux 7.3
 
-![EVONIX Linux 7.2 — POCO X7 Pro / Redmi Turbo 4](https://raw.githubusercontent.com/NEESCHAL-3/EVONIX-Kernel-Rodin-7.2/main/assets/evonix-linux-7.2-banner.png?v=2)
+![EVONIX Linux 7.3 — POCO X7 Pro / Redmi Turbo 4](assets/evonix-linux-7.3-banner.png)
 
 For **POCO X7 Pro / Redmi Turbo 4 — rodin**.
 
